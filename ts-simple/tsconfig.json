@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "strict": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": false,
+    "resolveJsonModule": true,
+    "types": [
+      "node",
+      "vitest/globals"
+    ],
+    "rootDir": ".",
+    "noEmit": true
+  },
+  "include": [
+    "src",
+    "tests"
+  ]
+}
