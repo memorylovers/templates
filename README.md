@@ -4,7 +4,7 @@ Memory Lovers repogitory templates
 
 ## Templates
 
-- ts-simple
+- ts-simple: `npx giget@latest gh:memorylovers/templates/ts-simple`
 
 ## License
 

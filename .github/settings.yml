@@ -6,7 +6,7 @@ repository:
   ####################################
   # General
   ####################################
-  description: Generate a unjs/nitro routes dirs from an OpenAPI spec
+  description: Memory Lovers repogitory templates
   default_branch: main
   private: false
   is_template: false
